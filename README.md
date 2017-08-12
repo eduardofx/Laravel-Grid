@@ -1,5 +1,5 @@
 # Laravel-Grid
-Grid dinâmica
+
 > php artisan migrate
 
 > php artisan db:seed
